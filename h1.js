@@ -7,11 +7,11 @@ console.log("Working...")
 // 3 . They cannot be redeclared.....But can be reinitialized....
 // 4. ******We cannot have Two Variables with same name in Let*******
 
-let fName = "Sidhant";//declared and initialized in the same line
+let fName = "Hitesh";//declared and initialized in the same line
 let fname;
-fname = "Lakhi";
+fname = "govinda";
 console.log(fname);
-fname = "Lakhwinder";
+fname = "hitesh-2";
 console.log(fname);
 
 // const - These keywords are used to assign variables with values
@@ -20,7 +20,7 @@ console.log(fname);
 // 3. But const "cant" be reinitialized also....
 // 4. ******We cannot have Two Variables with same name in const*******
 
-const lname = "Gupta";
+const lname = "hitesh";
 // lname = "Vinci";
 console.log(lname);
 
